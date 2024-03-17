@@ -1,2 +1,3 @@
 # software-development-resources
-A briefly described list of software development resources.
+
+Resources about software development for future reference.
